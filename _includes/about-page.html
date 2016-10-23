@@ -1,7 +1,6 @@
 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     <section class="section-padding post" itemprop="articleBody">
-        <h2>
-            Hello!
-        </h2>
+        {% capture about %}{% include about.md %}{% endcapture %}
+        {{ about  | markdownify }}
     </section>
 </article>
