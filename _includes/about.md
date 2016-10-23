@@ -1,7 +1,6 @@
 # Marcus Rognes
 
-### Summary
----
+----
 
 I am a developer with php, javascript (& node), C#, sql and nosql experience.
 
@@ -88,6 +87,10 @@ on and of 2011 - 2013
 November 2010 - current
 
 We where quite active in the early days, creating video productions for theater and revue teams, whilst studying media and communication.
+
+
+### Other
+----
 
 #### My favourite frameworks are:
 
