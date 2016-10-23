@@ -1,0 +1,39 @@
+# Site settings
+email: "marcus@rognes.guru"
+baseurl: ""
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+
+# SEO settings
+title: Rognes.guru
+description: >
+  Hi!
+  My name is Marcus Rognes.
+  I am a developer with php, javascript (& node), sql and nosql experience.
+url: ""
+twitter_username: "marcusrognes"
+default_img: "/assets/images/me.jpg"
+
+# Profile settings
+name: "Marcus Rognes"
+profile_img: "/assets/images/me.jpg"
+profile: >
+  Hi!
+  My name is Marcus Rognes.
+  I am a developer with php, javascript (& node), sql and nosql experience.
+social:
+  github: "hhtp://github.com/marcusrognes"
+
+# Build settings
+include: ["_categories"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
