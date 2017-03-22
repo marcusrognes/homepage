@@ -23,7 +23,7 @@ profile: >
   My name is Marcus Rognes.
   I am a developer with php, javascript (& node), sql and nosql experience.
 social:
-  github: "hhtp://github.com/marcusrognes"
+  github: "http://github.com/marcusrognes"
 
 # Build settings
 include: ["_categories"]
