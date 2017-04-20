@@ -9,7 +9,6 @@ I also have some experience with java, python, lua and c++.
 I have studied three years of media & communication, and one year media design at [Idefagskolen](http://idefagskolen.no/)
 
 [This is my old blog at Idefagskolen (2011 - 2012)](http://ideblogg.no/marcusrognes/)
-[And this is my old portfolio (2011 - 2012)](http://nettkringkasting.no/~marcusr/index.html#)
 
 ### Skill highlights
 ----
